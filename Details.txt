@@ -6,3 +6,9 @@ Task 1  :
    (c) Telephone Number (if available with STD code)
    (d) Mobile Number (if available)
    (e) Head of the family
+
+Task 2 :
+   Pointer to Objects in C++
+   WAP to create print or display Student information containing in Student class 
+   by using pointers to object.
+
