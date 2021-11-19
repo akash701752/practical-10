@@ -18,4 +18,17 @@ Task 3 :
    creation and have same names variables as class member data and constructor 
    parameters. Your job is to calculate the remainder of those two numbers.
    
+Task 4 :
+    V2 : Operator Overloading in C++
+    a). WAP, in which you write a friend function to overload a less than '<' operator in C++.
+    b). WAP in which you can add two objects [every object would have 1 integer value] by 
+        overloading + operator, which eventually would add the data values of those two object by adding the objects.
 
+
+
+
+
+
+
+                                                                                                                                        Thank You
+                                                                                                                                        - Akash
